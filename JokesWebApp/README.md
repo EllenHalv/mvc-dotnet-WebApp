@@ -12,8 +12,6 @@ The purpose of this project was for me to gain more understanding of C#, and to 
 - Ability to search for jokes!
 
 ![demo](image/img.png)
-<img src="image/img.png" alt="Alt Text" style="width: 480px; height: 360px;">
-
 
 ### Credits
 This project is based on the freeCodeCamp tutorial by Shad Sluiter: [ASP.NET Core Crash Course](https://www.youtube.com/watch?v=BfEjDD8mWYg&t=3s)
