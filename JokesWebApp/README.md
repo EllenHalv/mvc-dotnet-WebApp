@@ -11,7 +11,7 @@ The purpose of this project was for me to gain more understanding of C#, and to 
 - CRUD functionality
 - Ability to search for jokes!
 
-![demo](image\img.png)
+![demo](JokesWebApp/image/img.png)
 
 ### Credits
 This project is based on the freeCodeCamp tutorial by Shad Sluiter: [ASP.NET Core Crash Course](https://www.youtube.com/watch?v=BfEjDD8mWYg&t=3s)
