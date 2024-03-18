@@ -11,8 +11,8 @@ The purpose of this project was for me to gain more understanding of C#, and to 
 - CRUD functionality
 - Ability to search for jokes!
 
-![demo](JokesWebApp/image/img.png)
-<img src="JokesWebApp/image/img.png" alt="Alt Text" style="width: 480px; height: 360px;">
+![demo](image/img.png)
+<img src="image/img.png" alt="Alt Text" style="width: 480px; height: 360px;">
 
 
 ### Credits
